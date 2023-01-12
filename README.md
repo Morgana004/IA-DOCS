@@ -46,3 +46,8 @@ También son conocidos como algoritmos de Deep Learning.
 Tendencia de acumulaciónde datos que ha venido favorecida por el abaratamiento de los dispositivos de almacenamiento, la digitalización y una percepción a la hora de analizar los datos.
 
 También se puede referir al proceso de análisis de estos datos, desde su captura hasta su transformación en conocimiento.
+
+
+##  IA  MULTIMODAL
+
+Los sistemas multimodales de Inteligencia Artificial se caracterizan por procesar múltiples conjuntos de distintos tipos de datos utilizando métodos basados en el aprendizaje para proporcionar información más precisa, veraz e inteligente.
