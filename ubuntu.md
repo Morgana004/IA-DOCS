@@ -1,4 +1,4 @@
-#Instalación de Ubuntu
+# Instalación de Ubuntu
 
 ## Que es Ubuntu?
 
