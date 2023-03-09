@@ -39,4 +39,4 @@ Le indicamos que el fichero del disco duro virtual crezca dinamicamente.
 
 # Referencias
 
-23 -"Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/ubuntu](https://es.wikipedia.org/wiki/Ubuntu) (Accedido: 6 de marzo, 2023).
+"Ubuntu". Wikipedia. Disponible en: [https://es.wikipedia.org/wiki/ubuntu](https://es.wikipedia.org/wiki/Ubuntu) (Accedido: 6 de marzo, 2023).
